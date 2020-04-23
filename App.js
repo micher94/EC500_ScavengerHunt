@@ -11,41 +11,11 @@ export default
     constructor(props) {
         super(props);
         this.state = {
-            isLoading: true,
-            dataSource: [],
+            isLoading: false,
         }
     }
 
-    getData() {
-        console.log('Data is fetching')
-        fetch("https://covid-19-data.p.rapidapi.com/country/all?format=json", {
-            "method": "GET",
-            "headers": {
-                "x-rapidapi-host": "covid-19-data.p.rapidapi.com",
-                "x-rapidapi-key": "14569dc2bemshda7b04ec842b239p123fb9jsnbb792e420f63"
-            }
-        })
-            //        fetch("https://api.covid19api.com/summary")
-            .then((response) => response.json())
-            .then((responseJson) => {
-                dataSource2 = responseJson,
-                    this.setState({
-                        isLoading: false,
-                        dataSource: responseJson,
-                    });
-                // console.log(dataSource2)
-                // console.log(typeof dataSource2[0].latitude)
-                // console.log(dataSource2.Countries[0].TotalConfirmed)
-                // console.log(dataSource)
-                console.log('I am done')
-            })
-            .catch((error) => {
-                console.error(error);
-            });
-    };
-
     componentDidMount() {
-        this.getData();
     }
 
     componentWillMount() {
