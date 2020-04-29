@@ -26,6 +26,10 @@ with open('bostonclients.csv','r', encoding='utf-8-sig') as file:
     row_dict = {}
     # create the dictionary - each row is a dictionary
     # location is itself a dictionary within the row dictionary
+    row_dict[row["Company"]] = row["Company Name"]
+    row_dict[row["ID"]] = row["ID Key"]
+    row_dict[row["Used"]] = row["Used State"]
+    
     item = row_dict.get(row["Location"],dict())
     item[row["Address"]] = row["Full Address"]
     item[row["City"]] = row["City Name"]

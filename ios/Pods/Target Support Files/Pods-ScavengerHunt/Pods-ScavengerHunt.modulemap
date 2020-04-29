@@ -1,0 +1,6 @@
+module Pods_ScavengerHunt {
+  umbrella header "Pods-ScavengerHunt-umbrella.h"
+
+  export *
+  module * { export * }
+}

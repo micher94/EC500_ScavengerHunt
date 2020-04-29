@@ -1,5 +1,8 @@
 [
   {
+    "Company": "Dunkin",
+    "ID": "18431",
+    "Used": "0",
     "Location": {
       "Address": "13-15 Maverick Sq",
       "City": " East Boston",
@@ -15,6 +18,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "81723",
+    "Used": "0",
     "Location": {
       "Address": "715 Boylston St",
       "City": " Boston",
@@ -30,6 +36,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "80090",
+    "Used": "0",
     "Location": {
       "Address": "951 Bennington St",
       "City": " East Boston",
@@ -45,6 +54,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "62388",
+    "Used": "0",
     "Location": {
       "Address": "283 Huntington Ave",
       "City": " Boston",
@@ -60,6 +72,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "57441",
+    "Used": "0",
     "Location": {
       "Address": "80 Boylston St",
       "City": " Boston",
@@ -75,6 +90,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "61928",
+    "Used": "0",
     "Location": {
       "Address": "176 Federal St",
       "City": " Boston",
@@ -90,6 +108,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "75279",
+    "Used": "0",
     "Location": {
       "Address": "1 Congress St",
       "City": " Boston",
@@ -105,6 +126,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "58271",
+    "Used": "0",
     "Location": {
       "Address": "750 Washington St",
       "City": " Boston",
@@ -120,6 +144,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "87795",
+    "Used": "0",
     "Location": {
       "Address": "510 Southampton St",
       "City": " Boston",
@@ -135,6 +162,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "23432",
+    "Used": "0",
     "Location": {
       "Address": "1131 Tremont St",
       "City": " Boston",
@@ -150,6 +180,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "69788",
+    "Used": "0",
     "Location": {
       "Address": "153 Massachusetts Ave",
       "City": " Boston",
@@ -165,6 +198,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "99554",
+    "Used": "0",
     "Location": {
       "Address": "2 City Hall Sq",
       "City": " Boston",
@@ -180,6 +216,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "92975",
+    "Used": "0",
     "Location": {
       "Address": "106 Cambridge St",
       "City": " Boston",
@@ -195,6 +234,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "44046",
+    "Used": "0",
     "Location": {
       "Address": "70 E India Row",
       "City": " Boston",
@@ -210,6 +252,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "30063",
+    "Used": "0",
     "Location": {
       "Address": "145 Dartmouth St",
       "City": " Boston",
@@ -225,6 +270,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "20387",
+    "Used": "0",
     "Location": {
       "Address": "235 Washington St",
       "City": " Boston",
@@ -240,6 +288,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "32387",
+    "Used": "0",
     "Location": {
       "Address": "100 Terminal Rd",
       "City": " East Boston",
@@ -255,6 +306,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "96703",
+    "Used": "0",
     "Location": {
       "Address": "200 Terminal Rd",
       "City": " East Boston",
@@ -270,6 +324,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "56123",
+    "Used": "0",
     "Location": {
       "Address": "200 Terminal Rd",
       "City": " East Boston",
@@ -285,6 +342,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "91409",
+    "Used": "0",
     "Location": {
       "Address": "1631 Tremont St",
       "City": " Boston",
@@ -300,6 +360,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "28588",
+    "Used": "0",
     "Location": {
       "Address": "8 Park Plz",
       "City": " Boston",
@@ -315,6 +378,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "32646",
+    "Used": "0",
     "Location": {
       "Address": "482 W Broadway",
       "City": " Boston",
@@ -330,6 +396,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "17906",
+    "Used": "0",
     "Location": {
       "Address": "16 Kneeland St #18",
       "City": " Boston",
@@ -345,6 +414,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "65493",
+    "Used": "0",
     "Location": {
       "Address": "1420 Boylston St",
       "City": " Boston",
@@ -360,6 +432,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "57652",
+    "Used": "0",
     "Location": {
       "Address": "457 Brookline Ave",
       "City": " Boston",
@@ -375,6 +450,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "71838",
+    "Used": "0",
     "Location": {
       "Address": "350 Longwood Ave",
       "City": " Boston",
@@ -390,6 +468,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "11384",
+    "Used": "0",
     "Location": {
       "Address": "10 Winthrop Sq",
       "City": " Boston",
@@ -405,6 +486,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "57914",
+    "Used": "0",
     "Location": {
       "Address": "330 Congress St",
       "City": " Boston",
@@ -420,6 +504,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "46167",
+    "Used": "0",
     "Location": {
       "Address": "616 Massachusetts Ave",
       "City": " Boston",
@@ -435,6 +522,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "30103",
+    "Used": "0",
     "Location": {
       "Address": "75 Old Colony Ave",
       "City": " South Boston",
@@ -450,6 +540,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "29009",
+    "Used": "0",
     "Location": {
       "Address": "Fleet Center Train Deck",
       "City": " Boston",
@@ -465,6 +558,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "99598",
+    "Used": "0",
     "Location": {
       "Address": "127 Tremont St",
       "City": " Boston",
@@ -480,6 +576,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "43010",
+    "Used": "0",
     "Location": {
       "Address": "265 Franklin St",
       "City": " Boston",
@@ -495,6 +594,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "34461",
+    "Used": "0",
     "Location": {
       "Address": "101 Summer St.",
       "City": " Boston",
@@ -510,6 +612,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "30857",
+    "Used": "0",
     "Location": {
       "Address": "300 Terminal Dr",
       "City": " East Boston",
@@ -525,6 +630,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "59110",
+    "Used": "0",
     "Location": {
       "Address": "630 Washington St.",
       "City": " Boston",
@@ -540,6 +648,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "68869",
+    "Used": "0",
     "Location": {
       "Address": "111 State Street",
       "City": " Boston",
@@ -555,6 +666,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "24132",
+    "Used": "0",
     "Location": {
       "Address": "1138 Washington St",
       "City": " Boston",
@@ -570,6 +684,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "93289",
+    "Used": "0",
     "Location": {
       "Address": "34 William Kelly Sq. #34",
       "City": " East Boston",
@@ -585,6 +702,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "52761",
+    "Used": "0",
     "Location": {
       "Address": "1020 Commonwealth Ave",
       "City": " Boston",
@@ -600,6 +720,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "26610",
+    "Used": "0",
     "Location": {
       "Address": "200 Seaport Blvd",
       "City": " Boston",
@@ -615,6 +738,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "68992",
+    "Used": "0",
     "Location": {
       "Address": "430 Stuart St",
       "City": " Boston",
@@ -630,6 +756,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "68502",
+    "Used": "0",
     "Location": {
       "Address": "434 Mass Ave",
       "City": " Boston",
@@ -645,6 +774,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "25486",
+    "Used": "0",
     "Location": {
       "Address": "20 North St",
       "City": " Boston",
@@ -660,6 +792,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "64194",
+    "Used": "0",
     "Location": {
       "Address": "One Fleet Center",
       "City": " Boston",
@@ -675,6 +810,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "69038",
+    "Used": "0",
     "Location": {
       "Address": "530 Commonwealth Ave",
       "City": " Boston",
@@ -690,6 +828,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "28827",
+    "Used": "0",
     "Location": {
       "Address": "800 Boylston St Prudential Ctr",
       "City": " Boston",
@@ -705,6 +846,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "42466",
+    "Used": "0",
     "Location": {
       "Address": "333 Newbury St",
       "City": " Boston",
@@ -720,6 +864,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "17904",
+    "Used": "0",
     "Location": {
       "Address": "125 Nashua St",
       "City": " Boston",
@@ -735,6 +882,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "30313",
+    "Used": "0",
     "Location": {
       "Address": "Terminal Access Rd",
       "City": " East Boston",
@@ -750,6 +900,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "31559",
+    "Used": "0",
     "Location": {
       "Address": "One Legends Way",
       "City": " Boston",
@@ -765,6 +918,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "35852",
+    "Used": "0",
     "Location": {
       "Address": "17 Melnea Cass Blvd",
       "City": " Boston",
@@ -780,6 +936,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "53361",
+    "Used": "0",
     "Location": {
       "Address": "22 Beacon St",
       "City": " Boston",
@@ -795,6 +954,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "31904",
+    "Used": "0",
     "Location": {
       "Address": "200 Terminal Dr",
       "City": " East Boston",
@@ -810,6 +972,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "48938",
+    "Used": "0",
     "Location": {
       "Address": "100 Service Rd",
       "City": " East Boston",
@@ -825,6 +990,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "39923",
+    "Used": "0",
     "Location": {
       "Address": "417 Washington St Suite M",
       "City": " Boston",
@@ -840,6 +1008,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "73020",
+    "Used": "0",
     "Location": {
       "Address": "16 Tremont St.",
       "City": " Boston",
@@ -855,6 +1026,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "39010",
+    "Used": "0",
     "Location": {
       "Address": "100 Harborside Dr",
       "City": " East Boston",
@@ -870,6 +1044,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "52054",
+    "Used": "0",
     "Location": {
       "Address": "100 Harborside Dr",
       "City": " East Boston",
@@ -885,6 +1062,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "25901",
+    "Used": "0",
     "Location": {
       "Address": "1 Summer St",
       "City": " Boston",
@@ -900,6 +1080,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "60063",
+    "Used": "0",
     "Location": {
       "Address": "180 Canal St",
       "City": " Boston",
@@ -915,6 +1098,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "61333",
+    "Used": "0",
     "Location": {
       "Address": "59 Causeway St",
       "City": " Boston",
@@ -930,6 +1116,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "31887",
+    "Used": "0",
     "Location": {
       "Address": "3 Post Office Square",
       "City": " Boston",
@@ -945,6 +1134,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "61164",
+    "Used": "0",
     "Location": {
       "Address": "100 Cambridge St",
       "City": " Boston",
@@ -960,6 +1152,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "88458",
+    "Used": "0",
     "Location": {
       "Address": "230 Congress St",
       "City": " Boston",
@@ -975,6 +1170,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "27064",
+    "Used": "0",
     "Location": {
       "Address": "300 Terminal C",
       "City": " East Boston",
@@ -990,6 +1188,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "56996",
+    "Used": "0",
     "Location": {
       "Address": "330 Brookline Ave",
       "City": " Boston",
@@ -1005,6 +1206,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "87466",
+    "Used": "0",
     "Location": {
       "Address": "300 Terminal Dr",
       "City": " East Boston",
@@ -1020,6 +1224,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "13519",
+    "Used": "0",
     "Location": {
       "Address": "300 Terminal C",
       "City": " East Boston",
@@ -1035,6 +1242,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "68920",
+    "Used": "0",
     "Location": {
       "Address": "268 Summer St",
       "City": " Boston",
@@ -1050,6 +1260,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "99898",
+    "Used": "0",
     "Location": {
       "Address": "100 Legends Way",
       "City": " Boston",
@@ -1065,6 +1278,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "21568",
+    "Used": "0",
     "Location": {
       "Address": "53 Huntington Ave",
       "City": " Boston",
@@ -1080,6 +1296,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Dunkin",
+    "ID": "56772",
+    "Used": "0",
     "Location": {
       "Address": "145 Dartmouth St",
       "City": " Boston",
@@ -1095,6 +1314,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "47312",
+    "Used": "0",
     "Location": {
       "Address": "One Harbor St",
       "City": " South Boston",
@@ -1110,6 +1332,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "13393",
+    "Used": "0",
     "Location": {
       "Address": "711 Atlantic Ave",
       "City": " Boston",
@@ -1125,6 +1350,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "70047",
+    "Used": "0",
     "Location": {
       "Address": "300 Terminal Rd",
       "City": " East Boston",
@@ -1140,6 +1368,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "67255",
+    "Used": "0",
     "Location": {
       "Address": "400 Terminal Rd",
       "City": " East Boston",
@@ -1155,6 +1386,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "36940",
+    "Used": "0",
     "Location": {
       "Address": "161 Charles St",
       "City": " Boston",
@@ -1170,6 +1404,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "72459",
+    "Used": "0",
     "Location": {
       "Address": "895 Morton St",
       "City": " Boston",
@@ -1185,6 +1422,9 @@
     "Coupon": "50% with $1 to Covid-19 Efforts"
   },
   {
+    "Company": "Dunkin",
+    "ID": "18518",
+    "Used": "0",
     "Location": {
       "Address": "1 South Station",
       "City": " Boston",
@@ -1200,6 +1440,9 @@
     "Coupon": "$2 Latte 2-6 pm"
   },
   {
+    "Company": "Starbucks",
+    "ID": "39440",
+    "Used": "0",
     "Location": {
       "Address": "BU Kenmore Square",
       "City": "Boston",
@@ -1212,9 +1455,12 @@
       "Frap",
       " Coffee"
     ],
-    "Coupon": "4 Tall Coffee Free with $25 Purchase"
+    "Coupon": "1 Tall Coffee Free with $25 Purchase"
   },
   {
+    "Company": "Starbucks",
+    "ID": "34722",
+    "Used": "0",
     "Location": {
       "Address": "443 Boylston Street",
       "City": "Boston ",
@@ -1227,9 +1473,12 @@
       "Frap",
       " Coffee"
     ],
-    "Coupon": "3 Tall Coffee Free with $25 Purchase"
+    "Coupon": "1 Tall Coffee Free with $25 Purchase"
   },
   {
+    "Company": "Starbucks",
+    "ID": "25518",
+    "Used": "0",
     "Location": {
       "Address": "84 State Street",
       "City": "Boston",
@@ -1242,9 +1491,12 @@
       "Frap",
       " Coffee"
     ],
-    "Coupon": "2 Tall Coffee Free with $25 Purchase"
+    "Coupon": "1 Tall Coffee Free with $25 Purchase"
   },
   {
+    "Company": "Starbucks",
+    "ID": "83035",
+    "Used": "0",
     "Location": {
       "Address": "755 Boylston St",
       "City": "Boston",
@@ -1260,6 +1512,9 @@
     "Coupon": "1 Tall Coffee Free with $25 Purchase"
   },
   {
+    "Company": "Starbucks",
+    "ID": "72443",
+    "Used": "0",
     "Location": {
       "Address": "211 Congress",
       "City": "Boston",
@@ -1272,9 +1527,12 @@
       "Frap",
       " Coffee"
     ],
-    "Coupon": "0 Tall Coffee Free with $25 Purchase"
+    "Coupon": "1 Tall Coffee Free with $25 Purchase"
   },
   {
+    "Company": "Starbucks",
+    "ID": "91645",
+    "Used": "0",
     "Location": {
       "Address": "27 School Street",
       "City": "Boston",
@@ -1287,6 +1545,132 @@
       "Frap",
       " Coffee"
     ],
-    "Coupon": "1 Tall Coffee Free with $25 Purchase"
+    "Coupon": "$1 off with $2 donation to CEO"
+  },
+  {
+    "Company": "Panera",
+    "ID": "68518",
+    "Used": "0",
+    "Location": {
+      "Address": "8 Allstate Rd Suite 3",
+      "City": "Boston",
+      "Latitude": 42.33,
+      "Longitude": -71.060047
+    },
+    "Labels": [
+      "Panera",
+      "Bread",
+      "Salads",
+      " Coffee"
+    ],
+    "Coupon": "$1 off with $15 Salad Purchase"
+  },
+  {
+    "Company": "Panera",
+    "ID": "95412",
+    "Used": "0",
+    "Location": {
+      "Address": "200 High St",
+      "City": "Boston",
+      "Latitude": 42.356979,
+      "Longitude": -71.051902
+    },
+    "Labels": [
+      "Panera",
+      "Bread",
+      "Salads",
+      " Coffee"
+    ],
+    "Coupon": "$5 off for Breathing"
+  },
+  {
+    "Company": "Panera",
+    "ID": "91238",
+    "Used": "0",
+    "Location": {
+      "Address": "115 Stuart St",
+      "City": "Boston",
+      "Latitude": 42.352167,
+      "Longitude": -71.064335
+    },
+    "Labels": [
+      "Panera",
+      "Bread",
+      "Salads",
+      " Coffee"
+    ],
+    "Coupon": "1 free leaf with $10 Purchase"
+  },
+  {
+    "Company": "Panera",
+    "ID": "39590",
+    "Used": "0",
+    "Location": {
+      "Address": "450 Boylston St",
+      "City": "Boston",
+      "Latitude": 42.351594,
+      "Longitude": -71.073569
+    },
+    "Labels": [
+      "Panera",
+      "Bread",
+      "Salads",
+      " Coffee"
+    ],
+    "Coupon": "$1 off with $15 Salad Purchase"
+  },
+  {
+    "Company": "Thinking Cup",
+    "ID": "47711",
+    "Used": "0",
+    "Location": {
+      "Address": "236 Hanover St",
+      "City": "Boston",
+      "Latitude": 42.365125,
+      "Longitude": -71.053361
+    },
+    "Labels": [
+      "Thinking Cup",
+      "Thinking",
+      "Cup",
+      " Coffee"
+    ],
+    "Coupon": "1 Free ed. Of Republic 10a-12p"
+  },
+  {
+    "Company": "Thinking Cup",
+    "ID": "99778",
+    "Used": "0",
+    "Location": {
+      "Address": "165 Tremont St",
+      "City": "Boston",
+      "Latitude": 42.355875,
+      "Longitude": -71.063333
+    },
+    "Labels": [
+      "Thinking Cup",
+      "Thinking",
+      "Cup",
+      " Coffee"
+    ],
+    "Coupon": "1 Free ed. Of Republic 10a-12p"
+  },
+  {
+    "Company": "Thinking Cup",
+    "ID": "92682",
+    "Used": "0",
+    "Location": {
+      "Address": "85 Newbury St",
+      "City": "Boston",
+      "Latitude": 42.353759,
+      "Longitude": -71.075213
+    },
+    "Labels": [
+      "Thinking Cup",
+      "Thinking",
+      "Cup",
+      " Coffee"
+    ],
+    "Coupon": "1 Free ed. Of Republic 10a-12p"
   }
 ]
