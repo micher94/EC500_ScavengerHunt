@@ -3,8 +3,6 @@ import { StyleSheet, View, Text, Button, FlatList, TouchableOpacity, Image } fro
 import DialogManager, { ScaleAnimation, DialogContent } from 'react-native-dialog-component';
 import customData from '../bostonclients.json';
 import clients from '../clientlist.json'
-
-
 const styles = StyleSheet.create({
     container: {
         flex: 1,
@@ -13,18 +11,31 @@ const styles = StyleSheet.create({
         backgroundColor: "#fff",
     },
     bigBlue: {
-        color: 'black',
+        marginBottom:25,
+        color: '#4f4f4f',
         fontWeight: 'bold',
-        fontSize: 20,
+        fontSize: 30,
         justifyContent: "center",
+    },
+    couponBox: {
+        flex: 0.3,
+        marginTop: 45,
+        paddingVertical: 15,
+        paddingHorizontal: 15,
+        backgroundColor: '#d8bdff',
+        borderRadius: 20,
+    },
+    couponText: {
+        color: '#4f4f4f',
+        fontSize: 15,
+        fontWeight: 'bold',
+        justifyContent: "space-evenly",
+        alignItems: "stretch",
     },
     red: {
         color: 'red',
     },
 });
-
-
-
 export default function Coupons({ navigation }) {
     const Images = [
         { uri: "https://i.imgur.com/sNam9iJ.jpg" },
@@ -50,7 +61,6 @@ export default function Coupons({ navigation }) {
                                 <Text>
                                     Would you like to use this coupon?
                                 </Text>
-
                                 <Button title='confirm' onPress={() => { navigation.navigate('Home'), DialogManager.dismiss() }}></Button>
                             </View>
                         </View>
@@ -87,8 +97,10 @@ export default function Coupons({ navigation }) {
                 <FlatList
                     data={couponData}
                     renderItem={({ item }) => (
-                        <TouchableOpacity onPress={() => useCoupon(item)}>
-                            <Text>Coupon ID: {item.ID}, Coupon: {item.Coupon}</Text>
+                        <TouchableOpacity 
+                        style={styles.couponBox}
+                        onPress={() => useCoupon(item)}>
+                            <Text style={styles.couponText}>Coupon ID: {item.ID}, Coupon: {item.Coupon}</Text>
                         </TouchableOpacity>
                     )}
                 />

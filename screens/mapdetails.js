@@ -98,8 +98,8 @@ const styles = StyleSheet.create({
         elevation: 2,
         backgroundColor: '#FFF',
         marginHorizontal: 10,
-        height: 50,
-        width: 50,
+        // height: 50,
+        // width: 50,
         overflow: "hidden",
         
     }
