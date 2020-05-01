@@ -22,4 +22,4 @@ As a Corporation/Business, I want to share a specific bar code or string to be s
 
 ## Android Demo
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/micher94/EC500_ScavengerHunt/blob/android_expo_version/20200501_172505.mp4?raw=true "AndroidDemo")
