@@ -3,7 +3,7 @@ Yang Hu, Patrick Ntwari, Erin O'Neill, Michaela Reardon
 EC500
 Spring 2020
 
-The application has been built to work in both iOS and Android. For project files, please look in the ios_version or android_expo_version branches for the respective iOS and Android applications.
+***The application has been built to work in both iOS and Android. For project files, please look in the ios_version or android_expo_version branches for the respective iOS and Android applications.***
 
 # Semester Plan
 For the semester, we plan on focusing on creating an app that simply provides users with company input deals and promotions in their local area.  
