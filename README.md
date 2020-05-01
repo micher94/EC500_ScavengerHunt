@@ -26,7 +26,7 @@ This project leveraged ReactNative. In order to avoid errors using different env
 # Results
 The application uses react native maps and react native navigation to display a map of coupons to the user. The user opens the application and it gives the user a list of companies that have coupons through CouponMonarch.
 
-![Alt text](Screenshot_20200501-153957.jpgraw=true "Home Page")
+![Alt text](https://github.com/micher94/EC500_ScavengerHunt/blob/master/home.png?raw=true "Home Page")
 
 The user can click on a company and it will take them to a map of all locations for that company that have an active Coupon. The map currently defaults to Boston as the initial region because all the test cases are within Boston. This can be updated later to incorporate pulling the user location.
 
