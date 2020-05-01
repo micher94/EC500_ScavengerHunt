@@ -10,4 +10,4 @@ Run the file using expo start and a compatible phone with the Expo App downloade
 
 ## Android Demo
 
-![Alt text](https://github.com/micher94/EC500_ScavengerHunt/blob/android_expo_version/20200501_172505.mp4?raw=true "AndroidDemo")
+![Android demo](./android_demo.gif)
