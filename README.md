@@ -6,7 +6,7 @@ Spring 2020
 ## Dependencies
 
 Please install these package dependencies.
-
+'''
   "dependencies": {
     "@react-native-community/masked-view": "0.1.6",
     "expo": "~37.0.3",
@@ -24,7 +24,7 @@ Please install these package dependencies.
     "react-navigation": "^4.3.8",
     "react-navigation-stack": "^2.3.13"
   },
-
+'''
 
 ## How To Run
 Run the file using expo start and a compatible phone with the Expo App downloaded
