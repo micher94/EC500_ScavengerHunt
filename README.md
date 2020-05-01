@@ -30,11 +30,19 @@ The application uses react native maps and react native navigation to display a 
 
 The user can click on a company and it will take them to a map of all locations for that company that have an active Coupon. The map currently defaults to Boston as the initial region because all the test cases are within Boston. This can be updated later to incorporate pulling the user location.
 
+![Alt text](https://github.com/micher94/EC500_ScavengerHunt/blob/master/markermap.png?raw=true "Home Page")
 
 Initially all the markers will be green because none of the coupons have been used. The user can click on a marker and it will pop up with the Company, Coupon and Coupon ID for that location.
 
+![Alt text](https://github.com/micher94/EC500_ScavengerHunt/blob/master/markermap_wcallout.png?raw=true "Home Page")
 
-After a user decides which coupon they want to use. They click on coupon details which gives them a list of coupons, the user can find the coupon they want and click it to use the coupon. If the user clicks confirm, it marks the coupon as "used" and takes the user back to the home page. If the user clicks outside the dialog box, the user is taken back to the coupon list to keep browsing th coupons.
+After a user decides which coupon they want to use. They click on coupon details which gives them a list of coupons, the user can find the coupon they want and click it to use the coupon. 
+
+![Alt text](https://github.com/micher94/EC500_ScavengerHunt/blob/master/couponlist.png?raw=true "Home Page")
+
+If the user clicks confirm, it marks the coupon as "used" and takes the user back to the home page. If the user clicks outside the dialog box, the user is taken back to the coupon list to keep browsing th coupons.
+
+![Alt text](https://github.com/micher94/EC500_ScavengerHunt/blob/master/usecoupon.png?raw=true "Home Page")
 
 The application has been built to work in both iOS and Android.
 
