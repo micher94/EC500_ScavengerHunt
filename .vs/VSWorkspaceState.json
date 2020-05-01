@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.expo",
+    "\\.expo-shared",
+    "\\assets",
+    "\\routes",
+    "\\screens"
   ],
-  "SelectedNode": "\\App.js",
+  "SelectedNode": "\\screens\\mapdetails.js",
   "PreviewInSolutionExplorer": false
 }

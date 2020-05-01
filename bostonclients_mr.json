@@ -1,0 +1,110 @@
+[
+  {
+  	"key":"1",
+  	"Company": "Dunkin Donuts",
+    "Location": {
+      "Address": "13-15 Maverick Sq",
+      "City": " East Boston",
+      "Latitude": 42.369062,
+      "Longitude": -71.039333
+    },
+    "Labels": [
+      "Dunkin",
+      " Dunkin Donuts",
+      " Donuts",
+      " Coffee"
+    ],
+    "Coupon": "$2 Latte 2-6 pm",
+    "used":0,
+  },
+  {
+  	"key":"2",
+  	"Company": "Starbucks",
+    "Location": {
+      "Address": "715 Boylston St",
+      "City": " Boston",
+      "Latitude": 42.349561,
+      "Longitude": -71.079929
+    },
+    "Labels": [
+      "Dunkin",
+      " Dunkin Donuts",
+      " Donuts",
+      " Coffee"
+    ],
+    "Coupon": "50% with $1 to Covid-19 Efforts",
+    "used":0,
+  },
+  {
+  	"key":"3",
+  	"Company": "Starbucks",
+    "Location": {
+      "Address": "951 Bennington St",
+      "City": " East Boston",
+      "Latitude": 42.385928,
+      "Longitude": -71.008314
+    },
+    "Labels": [
+      "Dunkin",
+      " Dunkin Donuts",
+      " Donuts",
+      " Coffee"
+    ],
+    "Coupon": "$2 Latte 2-6 pm",
+    "used":0,
+  },
+  {
+  	"key":"4",
+  	"Company": "Dunkin Donuts",
+    "Location": {
+      "Address": "283 Huntington Ave",
+      "City": " Boston",
+      "Latitude": 42.341812,
+      "Longitude": -71.086396
+    },
+    "Labels": [
+      "Dunkin",
+      " Dunkin Donuts",
+      " Donuts",
+      " Coffee"
+    ],
+    "Coupon": "$2 Latte 2-6 pm",
+    "used":0,
+  },
+  {
+  	"key":"5",
+  	"Company": "Dunkin Donuts",
+    "Location": {
+      "Address": "80 Boylston St",
+      "City": " Boston",
+      "Latitude": 42.352247,
+      "Longitude": -71.064689
+    },
+    "Labels": [
+      "Dunkin",
+      " Dunkin Donuts",
+      " Donuts",
+      " Coffee"
+    ],
+    "Coupon": "$2 Latte 2-6 pm",
+    "used":0,
+  },
+  {
+  	"key":"6",
+  	"Company": "Panera",
+    "Location": {
+      "Address": "176 Federal St",
+      "City": " Boston",
+      "Latitude": 42.353354,
+      "Longitude": -71.056307
+    },
+    "Labels": [
+      "Dunkin",
+      " Dunkin Donuts",
+      " Donuts",
+      " Coffee"
+    ],
+    "Coupon": "$2 Latte 2-6 pm",
+    "used":0,
+  },
+]
