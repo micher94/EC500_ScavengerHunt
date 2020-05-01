@@ -19,3 +19,7 @@ As a coupon monarch, I want to share deals with friends.
 ## User 2: Promoter
 As a corporation/business, I want to create a deal / coupon to be seen by app users.
 As a Corporation/Business, I want to share a specific bar code or string to be shown at the point of sale to claim a deal.
+
+## Android Demo
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
