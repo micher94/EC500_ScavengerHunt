@@ -3,10 +3,11 @@ Yang Hu, Patrick Ntwari, Erin O'Neill, Michaela Reardon
 EC500
 Spring 2020
 
+The application has been built to work in both iOS and Android. For project files, please look in the ios_version or android_expo_version branches for the respective iOS and Android applications.
+
 # Semester Plan
 For the semester, we plan on focusing on creating an app that simply provides users with company input deals and promotions in their local area.  
 The minimum viable product is an app that allows a user to select a location and determine what local deals or promotions are available.  
-
 # Architecture
 Plan is to have an app interface (react native) that reads a database (local .json file) and uses Google Maps API to search the database.  
 
@@ -44,7 +45,7 @@ If the user clicks confirm, it marks the coupon as "used" and takes the user bac
 
 ![Alt text](https://github.com/micher94/EC500_ScavengerHunt/blob/master/usecoupon.png?raw=true "Home Page")
 
-The application has been built to work in both iOS and Android.
+
 
 # Next Steps
 This application was part of a greater plan to make a "Scavenger Hunt" Application. This is the part of the application that would be used to map the "stops" on the scavenger hunt and to mark which locations are complete. The next steps in the development goal would be as follows:
