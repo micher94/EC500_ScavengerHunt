@@ -3,23 +3,28 @@ Yang Hu, Patrick Ntwari, Erin O'Neill, Michaela Reardon
 EC500
 Spring 2020
 
-# Semester Plan
-For the semester, we plan on focusing on creating an app that simply provides users with company input deals and promotions in their local area.  
-The minimum viable product is an app that allows a user to select a location and determine what local deals or promotions are available.  
+## Dependencies
+```
+"dependencies": {
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/native": "^5.1.7",
+    "@react-navigation/stack": "^5.2.14",
+    "react": "16.11.0",
+    "react-native": "0.62.2",
+    "react-native-dialog": "^5.6.0",
+    "react-native-dialog-component": "^0.2.17",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-maps": "0.27.1",
+    "react-native-reanimated": "^1.8.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.7.0",
+    "react-navigation": "^4.3.8",
+    "react-navigation-stack": "^2.3.13"
+  },
+```
 
-# Architecture
-Plan is to have an app interface (react native) that reads a database (tbd) and uses Google Maps API to search the database.  
-
-# User Stories
-## User 1: Coupon Monarch
-As a coupon monarch, I want to search for deals based on my location.
-As a coupon monarch, I want suggestions based on my location. 
-As a coupon monarch, I want to share deals with friends. 
-
-## User 2: Promoter
-As a corporation/business, I want to create a deal / coupon to be seen by app users.
-As a Corporation/Business, I want to share a specific bar code or string to be shown at the point of sale to claim a deal.
-
+## How to Run
+- run ```npx react-native run-ios``` inside of current project folder
 
 ## iOS Demo
 ![IOS demo](./ios_demo.gif)
